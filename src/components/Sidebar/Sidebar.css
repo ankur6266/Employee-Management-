@@ -1,0 +1,27 @@
+.sidebar{
+    background: rgba(0, 0, 0, 0.651);
+    width: 20%;
+    height: 100vh;
+    text-align: center;
+}
+
+.logo img{
+    width: 80px;
+}
+
+.sidebarMenu{
+    list-style: none;
+    padding: 0;
+    margin-top: 2em;
+}
+.sidebarMenu .link{
+    text-decoration: none;
+}
+.sidebarMenu .menuItem{
+    color: white;
+    margin: 1em;
+    padding: .2em;
+}
+.sidebarMenu .menuItem:hover{
+    background: rgba(255, 255, 255, 0.096);
+}

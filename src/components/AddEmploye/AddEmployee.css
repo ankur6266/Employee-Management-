@@ -1,0 +1,16 @@
+
+.AddEmployee{
+    margin: 2% 0;
+}
+
+.AddEmployee .loginCard{
+    width: 40%;
+    margin: auto;
+    border: 3px solid rgb(221, 221, 221);
+    border-radius: 10px;
+    padding: 3em;
+    color: black;
+}
+.AddEmployee .form-floating{
+    margin: .5em;
+}

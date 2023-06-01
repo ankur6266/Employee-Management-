@@ -1,0 +1,16 @@
+.homepage{
+    
+}
+.carousel-item .d-block{
+    width: 100%;
+}
+.blog-card{
+    background-color: rgb(243, 243, 243);
+}
+
+.blogImg{
+    width: 70%;
+}
+.blogPara{
+    text-align: justify;
+}

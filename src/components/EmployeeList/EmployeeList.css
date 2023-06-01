@@ -1,0 +1,18 @@
+.employeeTable{
+    width: 80%;
+    margin: auto;
+}
+
+.employeeTable thead{
+    background: rgb(190, 253, 243);
+}
+
+.employeeTable > th, td{
+    padding: .5em;
+    border: 1px solid rgb(190, 190, 190);
+}
+
+.employeeTable tr:hover{
+    cursor: pointer;
+    background: rgb(255, 234, 234);
+}
