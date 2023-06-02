@@ -19,7 +19,7 @@ console.log(data);
 
   return (
     <div className='EmployeeList'>
-      <div>EmployeeList</div>
+      <h3>List Of Employees</h3>
       <table className='employeeTable'>
         <thead>
         {/* <tr className='tableHeading'> */}

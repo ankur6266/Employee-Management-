@@ -1,5 +1,9 @@
-.homepage{
-    
+.dashboard{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: max-content;
 }
 .carousel-item .d-block{
     width: 100%;

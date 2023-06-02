@@ -1,8 +1,11 @@
 
 .AddEmployee{
-    margin: 2% 0;
+    width: 100%;
+    /* margin: 2% 0; */
 }
-
+.AddEmployee h2{
+    text-align: center;
+}
 .AddEmployee .loginCard{
     width: 40%;
     margin: auto;
